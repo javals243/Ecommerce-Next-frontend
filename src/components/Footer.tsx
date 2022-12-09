@@ -48,7 +48,7 @@ export const Footer = ({ className }: { className?: string }) => {
           <div>
             Github{' '}
             <a
-              href="https://github.com/miadv"
+              href="https://github.com/javals243"
               className="transition-all hover:text-primary hover:underline"
             >
               Valere chihisa
