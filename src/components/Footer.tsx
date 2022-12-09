@@ -51,7 +51,7 @@ export const Footer = ({ className }: { className?: string }) => {
               href="https://github.com/miadv"
               className="transition-all hover:text-primary hover:underline"
             >
-              Miad Vosoughi
+              Valere chihisa
             </a>
           </div>
           <div className="flex space-x-8">
